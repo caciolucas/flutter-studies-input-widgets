@@ -1,16 +1,12 @@
-# entrada_dados
+# Input Widgets
 
-A new Flutter project.
+This app it's a simple app to show some examples of standart input widgets.
 
-## Getting Started
+## Preview
 
-This project is a starting point for a Flutter application.
+<img src="./example/Input Widgets.png" width="200">
 
-A few resources to get you started if this is your first Flutter project:
+## Technologies used
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Mobile
+![Flutter Logo in a shields.io badge](https://img.shields.io/badge/Flutter-gray.svg?logo=flutter&style=for-the-badge&color=02569B&logoColor=white)

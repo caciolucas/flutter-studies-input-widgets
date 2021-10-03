@@ -2,8 +2,10 @@
 // import 'package:entrada_dados/entrada_checkbox.dart';
 // import 'package:entrada_dados/entrada_radio_button.dart';
 // import 'package:entrada_dados/entrada_switch.dart';
-import 'package:entrada_dados/entrada_slider.dart';
+// import 'package:entrada_dados/entrada_slider.dart';
 import 'package:flutter/material.dart';
+
+import 'entradas_widget.dart';
 
 void main() {
   runApp(
@@ -12,7 +14,8 @@ void main() {
       // home: EntradaCheckbox(),
       // home: EntradaRadioButton(),
       // home: EntradaSwitch(),
-      home: EntradaSlider(),
+      // home: EntradaSlider(),
+      home: WidgetsEntrada(),
     )
   );
 }
